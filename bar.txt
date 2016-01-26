@@ -1,0 +1,4 @@
+this is bar line 1
+this is bar line 2
+this is bar line 3
+this is bar line 4
